@@ -1,0 +1,7 @@
+com\example\springcrud\Controllers\homeController.class
+com\example\springcrud\Repositories\ProductRepo.class
+com\example\springcrud\Controllers\refreshController.class
+com\example\springcrud\Controllers\uploadController.class
+com\example\springcrud\Models\Product.class
+com\example\springcrud\SpringcrudApplication.class
+com\example\springcrud\Controllers\editController.class
